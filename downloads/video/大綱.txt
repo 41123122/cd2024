@@ -1,0 +1,3 @@
+從 Replit 帳號下方的 Account,
+ Connected Services(連線服務區) 點選 Connect 後,
+ 讓 Github 授權 Replit, 將在 Replit 中的倉儲改版後, 有權限推回 Github.
